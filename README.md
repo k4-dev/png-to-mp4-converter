@@ -1,1 +1,22 @@
 # png-to-mp4-converter
+
+By following the steps below, you can convert multiple PNG frames into a single MP4 file.
+
+## Setting
+Install dependencies:
+```
+$ pip install -r requirements.txt
+```
+
+## Conversion
+Execute by specifying the source path, save destination, and frame rate(default is 30):
+```
+$ python src/png_to_mp4.py --input input/ --output output/result.mp4 --framerate 10
+```
+
+## Result
+You will find the integrated MP4 file like:
+- [result.mp4](https://github.com/mozu-dev/png-to-mp4-converter/tree/main/output)
+
+## License
+[MIT license](https://github.com/mozu-dev/png-to-mp4-converter/blob/main/LICENSE)
