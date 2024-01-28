@@ -16,7 +16,7 @@ $ python src/png_to_mp4.py --input input/ --output output/result.mp4 --framerate
 
 ## Result
 You will find the integrated MP4 file like:
-- [result.mp4](https://github.com/mozu-dev/png-to-mp4-converter/tree/main/output)
+- [result.mp4](https://github.com/mozu-dev/png-to-mp4-converter/blob/main/output/result.mp4)
 
 ## License
 [MIT license](https://github.com/mozu-dev/png-to-mp4-converter/blob/main/LICENSE)
