@@ -22,7 +22,7 @@ def convert_png_to_mp4(input_directory, output_file, frame_rate):
     size = (width, height)
 
     video = cv2.VideoWriter(
-        output_file, cv2.VideoWriter_fourcc(*'mp4v'), frame_rate, size)
+        output_file, cv2.VideoWriter_fourcc(*'avc1'), frame_rate, size)
 
     for image in images:
         video.write(cv2.imread(image))
