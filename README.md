@@ -5,7 +5,7 @@ By following the steps below, you can convert multiple PNG frames into a single 
 ## Setting
 Install dependencies:
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Conversion
