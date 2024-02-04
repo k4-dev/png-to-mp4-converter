@@ -22,7 +22,8 @@ python src/png_to_mp4.py \
 
 ## Result
 You will find the integrated MP4 file like:
-- [result.mp4](https://github.com/mozu-dev/png-to-mp4-converter/blob/main/output/result.mp4)
+
+![result](https://github.com/mozu-dev/png-to-mp4-converter/blob/main/output/result.gif)
 
 ## License
 [MIT license](https://github.com/mozu-dev/png-to-mp4-converter/blob/main/LICENSE)
